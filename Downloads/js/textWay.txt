@@ -1,0 +1,10 @@
+1. Проверяем и/или создаём ключ
+2. Клонившем гит
+3. cat Makefile
+4. make install
+5. Делаем задание
+6. make lint-fix
+6.1. Если не работает, то делаем npm run lint и npm run lint:fix
+7. git add файл
+8. git commit -m "text"
+9. git push
