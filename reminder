@@ -1,0 +1,9 @@
+1.Проверяем наличие ключа или создаём ключ (ssh -T git@github.com)
+2. Клонившем гит через ssh
+3. make install
+4. Начинаем кодировать
+5. Делаем make lint или make lint-fix
+5.1. Если make не робит, то смотрим на команды через файл Makefile. Пишем cat Makefile. Также можно провериться через npm run lint и npm run lint:fix
+6. make test
+7. Git add и git commit
+8. Git push. На крайняк git push –u origin <branch name>
